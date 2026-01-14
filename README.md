@@ -75,6 +75,12 @@ Portfolio: **https://yourportfolio.link**
 
 Thanks for visiting!  
 Let’s create something amazing together.
+## 📊 GitHub Stats
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujingole01&show_icons=true&theme=tokyonight)
+
+![Photoshop](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=adobephotoshop)
+![Illustrator](https://img.shields.io/badge/Illustrator-orange?style=for-the-badge&logo=adobeillustrator)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
 
 
 <!--
