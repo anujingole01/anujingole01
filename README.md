@@ -1,99 +1,95 @@
-# Hello, I'm Anuj Ingole 👋
-### Graphic Designer | Visual Storyteller | Brand Creator
+<h1 align="center">Hi 👋, I'm Anuj Ingole</h1>
+<h3 align="center">Full Stack Web Developer | Graphic Designer | Problem Solver</h3>
 
-Welcome to my GitHub! I’m a passionate **Graphic Designer** crafting visual experiences that connect brands with people. I blend creativity with strategy to design eye-catching graphics for both digital and print.
-
----
-
-## 🎨 What I Do
-
-I design **brand identities, digital products, marketing creatives, and visual assets** that communicate clearly and convert effectively.
-
-**Core Areas:**
-- Brand Identity & Logo Design
-- Social Media Graphics & Campaign Creatives
-- Advertisement & Promotional Designs
-- Product Mockups & Packaging Graphics
-- Posters, Banners & Print Materials
-- Web & UI Visual Assets
+<p align="center">
+I build complete digital products — from <b>UI design</b> to <b>backend logic</b> — combining creativity with clean, scalable code.
+</p>
 
 ---
 
-## 🔧 Tools I Use
+## 🚀 About Me
 
-| Tool | Proficiency |
-|------|-------------|
-| Adobe Photoshop | ⭐⭐⭐⭐⭐ |
-| Adobe Illustrator | ⭐⭐⭐⭐⭐ |
-| Adobe InDesign | ⭐⭐⭐⭐ |
-| Figma | ⭐⭐⭐⭐ |
-| Canva | ⭐⭐⭐⭐ |
+- 🎨 Creative **Graphic Designer** with a strong eye for branding & visuals  
+- 💻 **Full Stack Web Developer** building modern web applications  
+- ⚙️ Experience in both **frontend & backend development**  
+- 🔍 Focused on clean UI, optimized performance, and real-world solutions  
+- 🌱 Constantly learning new technologies and design systems  
 
 ---
 
-## 🚀 Projects / Highlights
+## 🧠 Tech Stack
 
-Here are some repositories and work highlights (You can link your portfolio or uploads):
+### 💻 Development
+- HTML, CSS, JavaScript  
+- React.js, Node.js  
+- Express.js  
+- MongoDB, MySQL  
+- Git & GitHub  
 
-- **Portfolio Showcase** – A live showcase of my best design work  
-  👉 [Live Portfolio Site](#)  
-  👉 Code/Assets: `/portfolio-ui`  
-- **Social Media Template Pack** – Reusable social templates  
-  👉 `/social-media-templates`  
-- **Branding Kit Examples** – Logos + identity systems  
-  👉 `/branding-kits`
-
-*More projects coming soon…*
-
----
-
-## 💡 I'm Currently Working On
-
-- Expanding my design toolkit with **motion graphics**
-- Creating **client-ready design systems**
-- Building a **design resource repository** for other creatives
+### 🎨 Design
+- Adobe Photoshop  
+- Adobe Illustrator  
+- Figma  
+- Canva  
 
 ---
 
-## 📫 Let’s Connect
+## 🛠 What I Can Build
 
-I’m open to collaboration, freelance work, and exciting creative challenges.
+### 🌐 Web Development
+- Full Stack Web Applications  
+- REST APIs & Backend Systems  
+- Admin Panels & Dashboards  
+- Authentication & Database Integration  
+- Responsive Websites  
 
-Email: **anujingole01@example.com**  
-LinkedIn: **https://linkedin.com/in/anujingole01**  
-Portfolio: **https://yourportfolio.link**
+### 🎨 Graphic & UI Design
+- Logos & Brand Identity  
+- Social Media & Marketing Creatives  
+- Product Design & Packaging  
+- Website UI & App Screens  
+- Posters, Banners & Advertisements  
 
 ---
 
-## ❤️ Fun Facts
+## 📂 Featured Projects
 
-✨ I love experimenting with color psychology  
-🎨 I follow UI/UX trends closely  
-📚 Always learning new design techniques
+- **Event Orbit** – Full Stack Event Management System  
+  *(React | Node | MongoDB | Role-based Panels)*  
+
+- **Attendance Management System**  
+  *(DevOps-based | Monthly Reports | Class-wise Data)*  
+
+- **Design Portfolio & Branding Works**  
+  *(Logos, posters, ads, social media creatives)*  
+
+➡️ Check repositories below for code & designs.
 
 ---
 
-Thanks for visiting!  
-Let’s create something amazing together.
 ## 📊 GitHub Stats
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujingole01&show_icons=true&theme=tokyonight)
 
-![Photoshop](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=adobephotoshop)
-![Illustrator](https://img.shields.io/badge/Illustrator-orange?style=for-the-badge&logo=adobeillustrator)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anujingole01&show_icons=true&theme=tokyonight" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anujingole01&theme=tokyonight" />
+</p>
 
+---
 
-<!--
-**anujingole01/anujingole01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤝 Connect With Me
 
-Here are some ideas to get you started:
+- 💼 LinkedIn: https://linkedin.com/in/anujingole01  
+- 📧 Email: anujingole01@gmail.com  
+- 🎨 Portfolio: (Add when ready)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✨ Philosophy
+
+> “Good design attracts users.  
+> Great code keeps them.”
+
+---
+
+⭐ If you like my work, consider following or starring my repositories.
