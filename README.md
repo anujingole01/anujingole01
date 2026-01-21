@@ -48,7 +48,8 @@ I build complete digital products — from <b>UI design</b> to <b>backend logic<
 - Social Media & Marketing Creatives  
 - Product Design & Packaging  
 - Website UI & App Screens  
-- Posters, Banners & Advertisements  
+- Posters, Banners & Advertisements
+- youtube thumbnails and posts  
 
 ---
 
