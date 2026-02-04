@@ -63,7 +63,9 @@ I build complete digital products — from <b>UI design</b> to <b>backend logic<
   *(DevOps-based | Monthly Reports | Class-wise Data)*  
 
 - **Design Portfolio & Branding Works**  
-  *(Logos, posters, ads, social media creatives)*  
+  *(Logos, posters, ads, social media creatives)*
+
+- Design graphics for University events.
 
 ➡️ Check repositories below for code & designs.
 
