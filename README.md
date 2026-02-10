@@ -87,13 +87,3 @@ I build complete digital products — from <b>UI design</b> to <b>backend logic<
 - 📧 Email: anujingole01@gmail.com  
 - 🎨 Portfolio: 
 
----
-
-## ✨ Philosophy
-
-> “Good design attracts users.  
-> Great code keeps them.”
-
----
-
-⭐ If you like my work, consider following or starring my repositories.
