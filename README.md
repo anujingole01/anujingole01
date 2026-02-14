@@ -30,7 +30,8 @@ I build complete digital products — from <b>UI design</b> to <b>backend logic<
 - Adobe Photoshop  
 - Adobe Illustrator  
 - Figma  
-- Canva  
+- Canva
+- Adobe express  
 
 ---
 
