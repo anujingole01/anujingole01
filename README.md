@@ -21,10 +21,11 @@ I build complete digital products — from <b>UI design</b> to <b>backend logic<
 
 ### 💻 Development
 - HTML, CSS, JavaScript  
-- React.js, Node.js  
+- React.js
+- Node.js 
 - Express.js  
 - MongoDB, MySQL  
-- Git & GitHub  
+- Git & GitHub 
 
 ### 🎨 Design
 - Adobe Photoshop  
@@ -32,6 +33,7 @@ I build complete digital products — from <b>UI design</b> to <b>backend logic<
 - Figma  
 - Canva
 - Adobe express  
+
 
 ---
 
