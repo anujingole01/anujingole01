@@ -32,7 +32,12 @@ I build complete digital products — from <b>UI design</b> to <b>backend logic<
 - Adobe Illustrator  
 - Figma  
 - Canva
-- Adobe express  
+- Adobe express
+
+### Platforms
+- Vs Code
+- Antigravity
+
 
 
 ---
