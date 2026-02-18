@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anuj Ingole</h1>
+<h1 align="center">Hiii 👋, I'm Anuj Ingole</h1>
 <h3 align="center">Full Stack Web Developer | Graphic Designer | Problem Solver</h3>
 
 <p align="center">
