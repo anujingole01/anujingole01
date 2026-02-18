@@ -13,7 +13,7 @@ I build complete digital products — from <b>UI design</b> to <b>backend logic<
 - 💻 **Full Stack Web Developer** building modern web applications  
 - ⚙️ Experience in both **frontend & backend development**  
 - 🔍 Focused on clean UI, optimized performance, and real-world solutions  
-- 🌱 Constantly learning new technologies and design systems  
+- 🌱 Constantly learning new technologies, design systems and much more.  
 
 ---
 
