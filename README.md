@@ -1,9 +1,6 @@
 <h1 align="center">Hii 👋, I'm Anuj Ingole</h1>
 <h3 align="center">Full Stack Web Developer | Graphic Designer | Devops </h3>
 
-<p align="center">
-I build complete digital products — from <b>UI design</b> to <b>backend logic</b> — combining creativity with clean, scalable code.
-</p>
 
 ---
 
