@@ -52,7 +52,7 @@
 - Logos & Brand Identity  
 - Social Media & Marketing Creatives  
 - Product Design & Packaging  
-- Website UI & App Screens  
+- Website UI & App Screens/Apps UI  
 - Posters, Banners & Advertisements
 - youtube thumbnails and posts
 - logos/creative banners  
