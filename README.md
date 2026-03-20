@@ -34,6 +34,8 @@
 ### Platforms
 - Vs Code
 - Antigravity
+- Adobe applications
+- 
 
 
 
