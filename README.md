@@ -1,5 +1,5 @@
 <h1 align="center">Hii 👋, I'm Anuj Ingole</h1>
-<h3 align="center">Full Stack Web Developer | Graphic Designer | Devops </h3>
+<h3 align="center">Full Stack Web Developer | Graphic Designer  </h3>
 
 
 ---
