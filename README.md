@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About myself
  
 - 💻 **Full Stack Web Developer** building modern web applications.  
 - ⚙️ Experience in both **frontend & backend development**
