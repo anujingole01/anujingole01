@@ -1,5 +1,5 @@
 <h1 align="center">Hii 👋, I'm Anuj Ingole</h1>
-<h3 align="center">Full Stack Web Developer | Graphic Designer | ui/ux </h3>
+<h3 align="center">Full Stack Web Developer | Graphic Designer | UI/UX </h3>
 
 
 ---
@@ -9,7 +9,7 @@
 - 💻 **Full Stack Web Developer** building modern web applications.  
 - ⚙️ Experience in both **frontend & backend development**
 - 🎨 Creative **Graphic Designer** with a strong eye for branding & visuals. 
-- 🔍 Focused on clean UI, optimized performance, and real-world solutions.  
+- 🔍 Focused on clean UI, optimized performance,creatives and real-world solutions.  
 - 🌱 Constantly learning new technologies, design systems and much more.  
 
 ---
