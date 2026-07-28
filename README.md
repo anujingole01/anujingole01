@@ -8,7 +8,7 @@
  
 - 💻 **Full Stack Web Developer** building modern web applications.  
 - ⚙️ Experience in both **frontend & backend development**
-- 🎨 Creative **Graphic Designer** with a strong eye for branding & visuals. 
+- 🎨 Creative **Graphic Designer** with a strong eye for branding & visuals and designs.
 - 🔍 Focused on clean UI, optimized performance,creatives and real-world solutions.  
 - 🌱 Constantly learning new technologies, design systems and much more.  
 
